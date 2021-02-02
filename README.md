@@ -1,2 +1,2 @@
 # FOSY-NMR
-FOSY NMR pulse sequences (with parameters) for Bruker AVANCE spectrometers
+FOSY NMR pulse sequences (with parameters and shaped pulses) for Bruker AVANCE spectrometers
